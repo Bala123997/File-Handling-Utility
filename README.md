@@ -48,11 +48,13 @@ FileUtility.java uses java.io.* and java.util.Scanner. The class is in package F
 <img width="1920" height="1020" alt="2025-09-20 (8)" src="https://github.com/user-attachments/assets/5f6656b4-b92a-425f-8eb6-668c0712a039" />
 
 Example usage
+
 Choose option 1 to create a file named notes.txt and type lines; type END to stop.
 Choose option 3 to read notes.txt.
 Choose option 6 to replace occurrences of a word with another.
 
 What I learned 🎓
+
 File I/O in Java: FileWriter, BufferedReader, FileReader, and File.
 Handling exceptions (try/catch) for robust file operations.
 Designing modular methods for each functionality.
@@ -60,4 +62,5 @@ User input handling with Scanner.
 Simple string replace logic using String.replace().
 
 *Acknowledgements 🙏
+
 Thanks to Codetech IT Solutions for this opportunity — this was my first internship task and it boosted my confidence! 🚀
