@@ -44,23 +44,10 @@ FileUtility.java uses java.io.* and java.util.Scanner. The class is in package F
 <img width="1920" height="1020" alt="2025-09-20 (6)" src="https://github.com/user-attachments/assets/640b21c6-9934-4aa0-9e2e-7ef7ad8f2a73" />
 
 ## How to compile & run ▶
-From repository root (assuming files are in FileHandlingUtility/):
 
-```bash
-# Compile
-javac FileHandlingUtility/FileUtility.java
+<img width="1920" height="1020" alt="2025-09-20 (7)" src="https://github.com/user-attachments/assets/32a3bbb0-2f65-4468-9814-d175729dc403" />
 
-# Run
-java FileHandlingUtility.FileUtility
-When the program runs you'll see a menu:
---- FILE HANDLING MENU ---
-1. Create / Overwrite file
-2. Append to file
-3. Read file
-4. Delete file
-5. Rename file
-6. Replace the text in file
-0. Exit
+<img width="1920" height="1020" alt="2025-09-20 (8)" src="https://github.com/user-attachments/assets/5f6656b4-b92a-425f-8eb6-668c0712a039" />
 
 Example usage
 Choose option 1 to create a file named notes.txt and type lines; type END to stop.
@@ -74,5 +61,5 @@ Designing modular methods for each functionality.
 User input handling with Scanner.
 Simple string replace logic using String.replace().
 
-Acknowledgements 🙏
+*Acknowledgements 🙏
 Thanks to Codetech IT Solutions for this opportunity — this was my first internship task and it boosted my confidence! 🚀
