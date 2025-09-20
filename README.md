@@ -41,8 +41,6 @@ This small console program demonstrates basic file operations in Java: create/ov
 
 FileUtility.java uses java.io.* and java.util.Scanner. The class is in package FileHandlingUtility.
 
-<img width="1920" height="1020" alt="2025-09-20 (6)" src="https://github.com/user-attachments/assets/640b21c6-9934-4aa0-9e2e-7ef7ad8f2a73" />
-
 ## How to compile & run ▶
 
 <img width="1920" height="1020" alt="2025-09-20 (7)" src="https://github.com/user-attachments/assets/32a3bbb0-2f65-4468-9814-d175729dc403" />
