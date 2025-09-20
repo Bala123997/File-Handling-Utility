@@ -41,6 +41,8 @@ This small console program demonstrates basic file operations in Java: create/ov
 
 FileUtility.java uses java.io.* and java.util.Scanner. The class is in package FileHandlingUtility.
 
+<img width="1920" height="1020" alt="2025-09-20 (6)" src="https://github.com/user-attachments/assets/640b21c6-9934-4aa0-9e2e-7ef7ad8f2a73" />
+
 ## How to compile & run ▶
 From repository root (assuming files are in FileHandlingUtility/):
 
@@ -64,8 +66,6 @@ Example usage
 Choose option 1 to create a file named notes.txt and type lines; type END to stop.
 Choose option 3 to read notes.txt.
 Choose option 6 to replace occurrences of a word with another.
-
-<img width="1920" height="1020" alt="2025-09-20 (6)" src="https://github.com/user-attachments/assets/34f5661b-49ef-49fc-8405-788517de6967" />
 
 What I learned 🎓
 File I/O in Java: FileWriter, BufferedReader, FileReader, and File.
